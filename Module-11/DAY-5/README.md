@@ -3,11 +3,12 @@
 ## AIM:
 To Write a Java program to get the first and last elements in a tree set.
 ## ALGORITHM :
-
+```
 a.	Import java.util.*.
 b.	Start the program and create a Scanner to take input from the user.
 c.	Read an integer size, then loop to take size number of string inputs and insert them into the TreeSet.
 d.	Print the entire TreeSet, which displays the elements in sorted order.
+```
 
 ## PROGRAM:
  ```
