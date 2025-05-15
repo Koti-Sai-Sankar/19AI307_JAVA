@@ -51,12 +51,12 @@ public class Main {
 
 
 ## OUTPUT:
-
+```
 Input	           Result
 2                   3
 3                   4
 4
-
+```
 
 ## RESULT:
 TThus the Java Program to store n numbers (add elements of type Integer) and then display the n numbers using array List was executed successfully.
