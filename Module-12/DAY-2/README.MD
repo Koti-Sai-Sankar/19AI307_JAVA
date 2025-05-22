@@ -50,7 +50,7 @@ public class ComparableExample {
 
 ## OUTPUT:
 ```
-Input      	Result
+Input     Result
 
 45           -1
 95            1
